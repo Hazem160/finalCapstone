@@ -1,0 +1,15 @@
+Total number of users: 2 
+Total number of tasks assigend: 2 
+
+User admin has 1 assigned tasks
+ Percentage of tasks assigned to the user: 50.0% 
+ Percentage of tasks that are completed by the user: 0.0%
+ Percentage of tasks that are not completed by the user: 100.0%
+ Percentage of tasks that are not completed and are overdue by the user: 100.0%
+
+User Gerald has 1 assigned tasks
+ Percentage of tasks assigned to the user: 50.0% 
+ Percentage of tasks that are completed by the user: 0.0%
+ Percentage of tasks that are not completed by the user: 100.0%
+ Percentage of tasks that are not completed and are overdue by the user: 100.0%
+
